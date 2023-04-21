@@ -1,6 +1,6 @@
 # Tarea (1-2-3) - Análisis y Diseño de Algoritmos
 
-Este es el repositorio de la Tarea 1 de la asignatura de Análisis y Diseño de Algoritmos (ADA) del semestre de otoño 2022 en la Universidad de Chile.
+Este es el repositorio de la Tarea 1 de la asignatura de Análisis y Diseño de Algoritmos (ADA) del semestre de otoño 2022 en la Universidad de Tarapaca (Chile).
 
 ## Descripción
 
