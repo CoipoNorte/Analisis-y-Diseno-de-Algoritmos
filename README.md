@@ -16,6 +16,3 @@ La Tarea 3 consiste en implementar y analizar dos algoritmos diferentes para el 
 
 El algoritmo de fuerza bruta y el algoritmo de búsqueda en profundidad. Además, se debe realizar un análisis teórico y experimental de los algoritmos, comparando su tiempo de ejecución y su uso de memoria en diferentes casos de prueba.
 
-
-Los archivos de código fuente se encuentran en el directorio `src/`, mientras que los archivos de datos de prueba se encuentran en el directorio `data/`. Los resultados de las pruebas y el análisis se muestran en los archivos de salida que se encuentran en el directorio `output/`.
-
